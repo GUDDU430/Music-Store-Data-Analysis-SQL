@@ -1,4 +1,4 @@
-# Power-BI-Developer
-This is my first Power BI Dashboard.
+# SQL PROJECT
+This is my first PROJECT.
 <br>
-Covid-19 Data Tracker.
+Music Store Data Analysis Project
